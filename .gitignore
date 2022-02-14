@@ -1,0 +1,9 @@
+# executables
+*.o
+cntlm
+config/endian
+config/socklen_t
+
+# auto-generated
+configure-stamp
+config/config.h
